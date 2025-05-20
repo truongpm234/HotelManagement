@@ -36,16 +36,16 @@ ___
 ___
 
 ## 📁 Project Structure
-project-root/
-├── src/
-│ └── main/
-│ └── java/
-│ └── data/
-│ ├── Hotel.java
-│ ├── Function.java
-│ ├── Validator.java
-│ └── Hotel.txt
-├── README.md
+project-root <br>
+src/<br>
+- main/<br>
+- java/<br>
+data/<br>
+- Hotel.java<br>
+- Function.java<br>
+- Validator.java<br>
+Hotel.txt<br>
+README.md
 ___
 
 ## 📞 Contact

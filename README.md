@@ -45,6 +45,5 @@ ___
 ## 📞 Contact
 
 Author: **truongpm234**  
-Email: [Link](phamminhtruong2032004@gmail.com)
-
-GitHub: [Link](https://github.com/truongpm234)
+Email: [Link](phamminhtruong2032004@gmail.com).
+GitHub: [Link](https://github.com/truongpm234).

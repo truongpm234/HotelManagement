@@ -36,14 +36,8 @@ ___
 ___
 
 ## 📁 Project Structure
-project-root <br>
-src/<br>
-- main/<br>
-- java/<br>
-data/<br>
-- Hotel.java<br>
-- Function.java<br>
-- Validator.java<br>
+main (Menu.java) <br>
+data (Hotel.java,  Function.java, Validator.java) <br>
 Hotel.txt<br>
 README.md
 ___
@@ -51,5 +45,5 @@ ___
 ## 📞 Contact
 
 Author: **truongpm234**  
-Email: phamminhtruong2032004@gmail.com  
-GitHub: [https://github.com/truongpm234](https://github.com/truongpm234)
+Email: [Link](phamminhtruong2032004@gmail.com)
+GitHub: [Link](https://github.com/truongpm234)
